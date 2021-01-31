@@ -1,0 +1,8 @@
+apple apple
+dog dog
+dog dog
+apple apple
+cat cat
+dog dog 
+dog
+dog
